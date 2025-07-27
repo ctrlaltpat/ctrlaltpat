@@ -13,5 +13,6 @@ I'm Patrick, a passionate Full Stack Developer based in London with a deep love 
 
 <hr>
 
-[<img alt="Codepen" width="26px" src="https://avatars.githubusercontent.com/u/57960618?s=96&v=4" />](https://github.com/ctrlaltpat-flatiron-work)
+[<img alt="Flatiron School Work" width="26px" src="https://avatars.githubusercontent.com/u/57960618?s=96&v=4" />](https://github.com/ctrlaltpat-flatiron-work)
 [<img alt="Codepen" width="26px" src="https://public.codepenassets.com/favicon/favicon.ico" />](https://codepen.io/ctrlaltpat)
+[<img alt="CodeWars" width="26px" src="https://www.codewars.com/favicon.ico" />](https://www.codewars.com/users/kcirtapp/)
